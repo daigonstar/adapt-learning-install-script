@@ -7,6 +7,6 @@ $ bash adapt-authoring.sh
 
 After script has run and you configured Adapt run the server with the following commands
 
-$ cd adapt-authoring
+$ cd adapt-authoring/
 
 $ node server
