@@ -7,7 +7,7 @@ Run this script on any Debian based distro
 bash adapt-authoring.sh
 ```
 
-alternatively you can make the script executable with the fololowing:
+alternatively you can make the script executable with the following:
 
 ```
 chmod +x adapt-authoring.sh
